@@ -1,0 +1,19 @@
+{
+  "name": "nbgannuity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.7.4",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.7"
+  }
+}
